@@ -16,8 +16,8 @@ service:
   targetPort: 80
   
 color:
-   circle: black
-   oval: black
+   circle: blue
+   oval: green
    triangle: black
-   rectangle: black
-   square: black    
+   rectangle: red
+   square: cyan    
