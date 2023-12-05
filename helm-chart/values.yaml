@@ -17,7 +17,7 @@ service:
   
 color:
    circle: blue
-   oval: green
-   triangle: black
+   oval: red
+   triangle: red
    rectangle: red
    square: cyan    
